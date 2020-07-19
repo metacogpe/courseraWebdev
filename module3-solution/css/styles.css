@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica;
+}
+
+
+/* Brand */
+
+#header-nav .navbar-brand {
+    position: absolute;
+    margin-left: 10px;
+    left: 10px;
+    font-size: 35px;
+}
+
+#nav-list>li {
+    text-align: center;
+    border: 1px solid
+}
+
+.menu {
+    font-size: 20px;
+    text-align: center;
+}
+
+.section {
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: lightgrey;
+}
